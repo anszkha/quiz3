@@ -3,13 +3,15 @@ Content-Type: application/json
 
 {
     "username": "Anis", 
-    "password": "Anis14"
+    "password": "Anis14",
+    "name": "anis",
+    "email": "Anis99@gmail.com"
 }
 
 ###
 
 GET http://localhost:3000/bye
-
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFuaXMiLCJwYXNzd29yZCI6IkFuaXMxNCIsIm5hbWUiOiJBbmlzIiwiZW1haWwiOiJBbmlzOTlAZ21haWwuY29tIiwiaWF0IjoxNjgxMzcxNzI0fQ.t-SPpNbuhqgB0mi8v6HfrgYGWXmm_y2PIq8yExCllMw
 
 ###
 
